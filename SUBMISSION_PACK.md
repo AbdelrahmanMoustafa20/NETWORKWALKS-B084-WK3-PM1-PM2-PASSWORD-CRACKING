@@ -18,7 +18,7 @@
 4. Click **Create repository**.
 5. Run in Terminal:
 ```bash
-cd /Users/ahabsmac/Desktop/NetworkWalks-Week3
+cd /Users/abdelrahmankali/Desktop/NetworkWalks-Week3
 git init
 git config user.name "Abdelrahman Moustafa"
 git config user.email "abdulrahmanmostafa58@gmail.com"
