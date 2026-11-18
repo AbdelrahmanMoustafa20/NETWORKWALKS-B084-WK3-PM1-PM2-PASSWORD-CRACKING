@@ -5,7 +5,7 @@
 
 | Field | Detail |
 | :--- | :--- |
-| **Pentester / Intern Name** | **Abdelrahman Ahab** ([GitHub: @AbdelrahmanMoustafa20](https://github.com/AbdelrahmanMoustafa20)) |
+| **Pentester / Intern Name** | **Abdelrahman Moustafa** ([GitHub: @AbdelrahmanMoustafa20](https://github.com/AbdelrahmanMoustafa20)) |
 | **Program / Batch** | **B084-Networkwalks** |
 | **Week** | Week 3 |
 | **Date** | 18 November 2026 |
