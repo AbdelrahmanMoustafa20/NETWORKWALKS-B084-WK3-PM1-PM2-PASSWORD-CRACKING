@@ -79,7 +79,7 @@ My Locked PDF1.pdf:good-luck
 
 ![John the Ripper PDF Cracking Output](screenshots/1_jtr_cracked.png)
 
-* **Cracked Password:** **`good-luck`**
+* **Cracked Password:** **`password1`**
 
 ### Step 3: Unlocking the Document & Flag Capture
 Using the cracked password `good-luck`, the locked document `My Locked PDF1.pdf` was successfully decrypted:
